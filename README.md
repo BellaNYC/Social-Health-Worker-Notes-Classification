@@ -13,7 +13,7 @@ What do community health workers’ case notes tell us about the challenges of h
 
 # Methods:
 ### Preprocessing: Bag of words
-1. Stopwords, tokenization, lamentization and stemming
+1. Stopwords, tokenization, lemmatization and stemming
 
 2. After all above steps, move to build a vocabulary. (vocab = All final features after cleaning, removing stop words etc)
 
